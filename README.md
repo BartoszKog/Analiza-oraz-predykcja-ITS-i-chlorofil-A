@@ -11,3 +11,7 @@ Celem projektu była analiza danych dotyczących ITS (Indeks Trofii Surfactant) 
 5. Implementację metody SVM jako alternatywnego podejścia do modelowania
 
 Projekt miał na celu praktyczne zastosowanie metod statystycznych i uczenia maszynowego do analizy danych środowiskowych oraz porównanie skuteczności różnych technik predykcyjnych.
+
+## Raport
+
+Raport z wynikami, wizualizacjami oraz wnioskami najlepiej przejrzeć [tutaj](https://bartoszkog.github.io/Analiza-oraz-predykcja-ITS-i-chlorofil-A/)
